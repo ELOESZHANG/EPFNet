@@ -6,6 +6,12 @@ module, which aggregates the enhanced point features with the feature-rich RGB f
 <img width="2674" alt="overview" src="https://github.com/ELOESZHANG/EPFNet/assets/46095890/bff79a74-43ff-4588-b031-54058eba8ebf">
 # Qualitative Results
 
-<img width="1000" alt="竖版（压缩）" src="https://github.com/ELOESZHANG/EPFNet/assets/46095890/758a75d4-c1bc-4b7c-b322-348fe71e1e1a">
+<img width="1000" alt="Qualitative Comparison（压缩）" src="https://github.com/ELOESZHANG/EPFNet/assets/46095890/cba57998-cbe7-4aea-af50-2bb181306a49">
 
 We will upload the complete code soon.
+
+# Reference
+Part of the code is borrowed from the work of the following authors:
+
+1.https://git.openi.org.cn/OpenPointCloud/PCSOD
+2.https://github.com/xuebinqin/U-2-Net
